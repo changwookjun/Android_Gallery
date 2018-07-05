@@ -7,4 +7,4 @@ Android Gallery
 
 
 Author
-ChangWookJun / @thezili-changwook
+ChangWookJun / @changwookjun
